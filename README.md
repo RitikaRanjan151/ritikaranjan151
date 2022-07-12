@@ -4,7 +4,7 @@
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikaranjan151&langs_count=20&theme=highcontrast&custom_title=Most used Languages" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikaranjan151&langs_count=20&border_color=61dafb&theme=radical&custom_title=Most used Languages" />
     </a> 
     
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikaranjan151&label=Profile%20views&color=0e75b6&style=flat" alt="ritikaranjan" /> </p>
