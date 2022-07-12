@@ -27,7 +27,7 @@
 ## Tools and Technologies
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ritikaranjan151&show_icons=true&theme=cobalt&border_color=61dafb&include_all_commits=true&count_private=true" alt="ritikaranjan"/>
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ritikaranjan151&show_icons=true&theme=radical&border_color=61dafb&include_all_commits=true&count_private=true" alt="ritikaranjan"/>
  </a>
  </div>
     
