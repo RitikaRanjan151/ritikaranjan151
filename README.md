@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritika</h1>
-<h3 align="center">Web Dev Intern'22 @DevComm | DSA | NITA'23</h3>
+<h3 align="center">Web Dev Intern'22 @DevComm | DSA Enthusiast | NITA'23</h3>
 
 </br>
 
