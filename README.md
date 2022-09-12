@@ -2,10 +2,11 @@
 <h3 align="center">Web Dev Intern'22 @DevComm | DSA Enthusiast | NITA'23</h3>
 
 </br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikaranjan151&langs_count=20&border_color=61dafb&theme=radical&custom_title=Most used Languages" />
+    <div>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikaranjan151&theme=react&border_color=61dafb" />
     </a> 
+</div>
     
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikaranjan151&label=Profile%20views&color=0e75b6&style=flat" alt="ritikaranjan" /> </p>
 
